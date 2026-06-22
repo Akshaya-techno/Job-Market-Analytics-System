@@ -144,6 +144,31 @@ Job-Market-Analytics-System
 │
 └── screenshots
 ```
+## Analytics Screenshots
+
+### Most Demanded Skills
+
+![Most Demanded Skills](Most_Demanded_Skills.png)
+
+### Top Hiring Companies
+
+![Top Hiring Companies](top_hiring_companies.png)
+
+### Top Hiring Locations
+
+![Top Hiring Locations](top_hiring_locations.png)
+
+### Highest Paying Skills
+
+![Highest Paying Skills](highest_paying_skills.png)
+
+### Highest Paying Companies
+
+![Highest Paying Companies](highest_paying_companies.png)
+
+### Salary By Experience
+
+![Salary By Experience](salary_by_experience.png)
 
 ## Learning Outcomes
 
