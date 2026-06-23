@@ -148,27 +148,27 @@ Job-Market-Analytics-System
 
 ### Most Demanded Skills
 
-![Most Demanded Skills](Most_Demanded_Skills.png)
+![Most Demanded Skills](screenshots/Most_Demanded_Skills.png)
 
 ### Top Hiring Companies
 
-![Top Hiring Companies](top_hiring_companies.png)
+![Top Hiring Companies](screenshots/top_hiring_companies.png)
 
 ### Top Hiring Locations
 
-![Top Hiring Locations](top_hiring_locations.png)
+![Top Hiring Locations](screenshots/top_hiring_locations.png)
 
 ### Highest Paying Skills
 
-![Highest Paying Skills](highest_paying_skills.png)
+![Highest Paying Skills](screenshots/highest_paying_skills.png)
 
 ### Highest Paying Companies
 
-![Highest Paying Companies](highest_paying_companies.png)
+![Highest Paying Companies](screenshots/highest_paying_companies.png)
 
 ### Salary By Experience
 
-![Salary By Experience](salary_by_experience.png)
+![Salary By Experience](screenshots/salary_by_experience.png)
 
 ## Learning Outcomes
 
